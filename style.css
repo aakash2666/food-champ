@@ -29,7 +29,7 @@ nav ul li a {
 }
 
 .hero {
-    background-image: url('images/fastfood.jpg');
+    background-image: url('fastfood.jpg');
     background-size: cover;
     background-position: center;
     padding: 100px 20px;
